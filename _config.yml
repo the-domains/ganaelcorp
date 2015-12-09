@@ -1,0 +1,28 @@
+name: GANAELCORP
+favicon: null
+layout_spectrum: 0.6732851953711361
+typography_spectrum: 0.0022899939212948084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.011312682880088687
+  lightness: 0.6091227631550282
+  saturation: 0.37252340698614717
+  rhythmicContrast: 0.09655395220033824
+purpose: []
